@@ -1,0 +1,11 @@
+---
+
+pkgs:
+  - fzf
+  - tmux
+  - vim
+
+dotfiles:
+  - .bashrc
+  - .tmux.conf
+  - .vimrc
